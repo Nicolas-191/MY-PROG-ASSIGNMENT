@@ -1,0 +1,6 @@
+com\mycompany\hospitalpatientsystem\InPatient.class
+com\mycompany\hospitalpatientsystem\HospitalSystem.class
+com\mycompany\hospitalpatientsystem\PatientType.class
+com\mycompany\hospitalpatientsystem\OutPatient.class
+com\mycompany\hospitalpatientsystem\Person.class
+com\mycompany\hospitalpatientsystem\EmergencyPatient.class
